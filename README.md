@@ -27,14 +27,14 @@
 
 ---
 <!--[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true&hide=prs,contribs)]-->
-<<div style="display: flex;align-items: center;justify-content: center;">
+<div style="display: flex;align-items: center;justify-content: center;">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true&hide=contribs">
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharisirfan&theme=cobalt&layout=compact&custom_title=Top%20Languages&langs_count=4">
 </div>
 
- <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basiim&theme=cobalt&layout=compact&custom_title=Top%20Languages&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)-->
+ <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harisirfan&theme=cobalt&layout=compact&custom_title=Top%20Languages&langs_count=3)]-->
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
