@@ -20,7 +20,7 @@
 
 #### 〆 👯 [Beta Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
 
-#### 〆 😎 Joint Secretary IEEE COMSATS University Islamabad / Official Member IEEE
+#### 〆 😎 Operations Manager IEEE COMSATS University Islamabad / Official Member IEEE
 
 #### 〆 🎨 Hobbies: Robotics and Programming.
 ---
