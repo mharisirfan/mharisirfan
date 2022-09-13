@@ -16,7 +16,9 @@
 </a>
 </p>
 
-#### 〆 🎓 Pursuing a bachelor's degree in Computer Engineering from the [COMSATS UNIVERSITY ISLAMABAD](https://comsats.edu.pk/).
+#### 〆  Hardware Design Engineer
+
+#### 〆 🎓 Computer Engineer [COMSATS UNIVERSITY ISLAMABAD](https://comsats.edu.pk/).
 
 #### 〆 👯 [Beta Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
 
