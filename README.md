@@ -1,46 +1,61 @@
-### Hello World, [Muhammad Haris Irfan](https://harisirfan.com/) here! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
+### Hello World 👋, I’m [Haris Irfan](https://harisirfan.com)
+
+🚀 MSc Computer Science @ **University of Tartu, Estonia**  
+🔐 Software Engineer | Secure Systems | Backend & Systems Programming  
+🤖 Robotics • AI • Distributed & Legacy Systems  
 
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=mharisirfan&color=blueviolet&label=Profile+Views)
-<a href="https://twitter.com/Harisirfanbutt">
-<img alt="@harisirfanbutt | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>  <a href="https://www.linkedin.com/in/muhammadharisirfan/">
-<img alt="MuhammadHarisIrfan | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/muhammadharisirfan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/harisirfanafzalbutt">
-<img  alt="@Haris Irfan | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://twitter.com/Harisirfanbutt">
+  <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/_harisirfan">
-<img alt="@_harisirfan| Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 </p>
 
-#### 〆  Hardware Design Engineer
-
-#### 〆 🎓 Computer Engineer [COMSATS UNIVERSITY ISLAMABAD](https://comsats.edu.pk/).
-
-#### 〆 👯 [Beta Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)
-
-#### 〆 😎 Operations Manager IEEE COMSATS University Islamabad / Official Member IEEE
-
-#### 〆 🎨 Hobbies: Robotics and Programming.
 ---
 
+### 👨‍💻 About Me
+- 🎓 **MSc Computer Science (2025–2027)** — University of Tartu  
+- 🧠 Strong background in **C / C++ / Java / Python** and algorithmic thinking  
+- 🔐 Industry experience in **secure coding, SAST remediation, CI/CD**  
+- 🛠 Worked on **large-scale legacy systems** (C/C++/Fortran/Java) at Halliburton  
+- 🤖 Built **AI-based auto-tracking & multi-robot systems** (embedded + software)  
+- 📚 Interested in **Backend Engineering, Distributed Systems, AI & Robotics**
+
 ---
-<!--[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true&hide=prs,contribs)]-->
-<div style="display: flex;align-items: center;justify-content: center;">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true&hide=contribs">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharisirfan&theme=cobalt&layout=compact&custom_title=Top%20Languages&langs_count=4">
+
+### 🧩 Current Focus
+- Backend & systems engineering (Java / C++ / Python)
+- Secure & maintainable software design
+- Algorithms, ML fundamentals & applied AI
+- Research-oriented engineering & real-world systems
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** C, C++, Java, Python, Fortran  
+**Tools:** Git, GitLab CI/CD, Jenkins, Linux, Docker  
+**Domains:** Backend Systems, Secure Coding, Robotics, AI, Legacy Modernization  
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&hide=contribs"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharisirfan&theme=cobalt&layout=compact&langs_count=4"/>
 </div>
 
- <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harisirfan&theme=cobalt&layout=compact&custom_title=Top%20Languages&langs_count=3)]-->
+---
 
-<!--Here are some ideas to get you started:
+### 🤝 Let’s Connect
+I’m always open to discussions around **software engineering, research, AI, robotics, and backend systems**.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me via **LinkedIn** or check out my work at 👉 [harisirfan.com](https://harisirfan.com)
