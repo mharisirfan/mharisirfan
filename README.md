@@ -49,8 +49,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&hide=contribs"/>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharisirfan&theme=cobalt&layout=compact&langs_count=4"/>
+  <img height="140px" src="https:///gh-readme-stats-rho.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&hide=contribs"/>
+  <img height="140px" src="https:///gh-readme-stats-rho.vercel.app/api/top-langs/?username=mharisirfan&theme=cobalt&layout=compact&langs_count=4"/>
 </div>
 
 ---
@@ -59,3 +59,4 @@
 I’m always open to discussions around **software engineering, research, AI, robotics, and backend systems**.
 
 📫 Reach me via **LinkedIn** or check out my work at 👉 [harisirfan.com](https://harisirfan.com)
+
