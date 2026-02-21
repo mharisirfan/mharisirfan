@@ -47,6 +47,16 @@
 
 ---
 
+## 📁 Demo Projects
+
+📊 **Autism Spectrum Detection Demo App**  
+🔗 https://asddemoapp-livelink.streamlit.app  
+
+🎮 **Tic Tac Toe Web App**  
+🔗 https://tictactoeharis.streamlit.app/
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
   <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&hide=contribs" />
@@ -58,6 +68,7 @@
 I’m always open to discussions around **software engineering, research, AI, robotics, and backend systems**.
 
 📫 Reach me via **LinkedIn** or check out my work at 👉 [harisirfan.com](https://harisirfan.com)
+
 
 
 
