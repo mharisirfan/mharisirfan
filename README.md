@@ -61,6 +61,7 @@
 <div align="center">
   <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&hide=contribs" />
   <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mharisirfan&theme=cobalt&layout=compact&langs_count=4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mharisirfan&theme=default" height="160" alt="GitHub Streak" />
 </div>
 
 
@@ -68,6 +69,7 @@
 I’m always open to discussions around **software engineering, research, AI, robotics, and backend systems**.
 
 📫 Reach me via **LinkedIn** or check out my work at 👉 [harisirfan.com](https://harisirfan.com)
+
 
 
 
