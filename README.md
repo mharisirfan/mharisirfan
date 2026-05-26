@@ -50,14 +50,14 @@ Personal Portfolio Website: www.harisirfan.com
 
 ## 📁 Demo Projects
 
-� **Smart Water Tank Monitoring & Overflow Prevention System**  
+**Smart Water Tank Monitoring & Overflow Prevention System**  
 🔗 https://github.com/mharisirfan/SmartWaterTankMonitoring  
-*IoT-based automated water tank management with real-time MQTT monitoring and web dashboard*
+IoT-based automated water tank management with real-time MQTT monitoring and web dashboard
 
-�📊 **Autism Spectrum Detection Demo App**  
+**Autism Spectrum Detection Demo App**  
 🔗 https://asddemoapp-livelink.streamlit.app  
 
-🎮 **Tic Tac Toe Web App**  
+**Tic Tac Toe Web App**  
 🔗 https://tictactoeharis.streamlit.app/
 
 ---
