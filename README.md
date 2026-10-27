@@ -1,83 +1,71 @@
-### Hello World 👋, I’m [Haris Irfan](https://harisirfan.com)
-Personal Portfolio Website: www.harisirfan.com
+# Hi, I'm Haris Irfan 👋
 
-🚀 MSc Computer Science @ **University of Tartu, Estonia**  
-🔐 Software Engineer | Secure Systems | Backend & Systems Programming  
-🤖 Robotics • AI • Distributed & Legacy Systems  
+**Software Engineer · C/C++ · Secure Software · Distributed Systems**
 
-<p align="center">
+Based in **Tartu, Estonia**, with **4+ years of professional experience** across enterprise software, Linux systems, and device software. Currently a **Software Developer at Cleveron** and an **MSc Computer Science student at the University of Tartu**, specializing in **Distributed Systems**.
 
-![](https://komarev.com/ghpvc/?username=mharisirfan&color=blueviolet&label=Profile+Views)
+[Portfolio](https://harisirfan.com) · [LinkedIn](https://www.linkedin.com/in/muhammadharisirfan/) · [GitHub](https://github.com/mharisirfan)
 
-<a href="https://www.linkedin.com/in/muhammadharisirfan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/Harisirfanbutt">
-  <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/_harisirfan">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+## About me
 
-</p>
+- Build and maintain software in **C/C++, Java, Python, and Fortran**, with an emphasis on reliability, debugging, and maintainability.
+- Previously worked at **LMKR - Halliburton** on large-scale seismic interpretation software, legacy modernization, and CI/CD.
+- Led **SAST vulnerability remediation using Fortify SCA and GitLab SAST**, addressing security vulnerabilities in C/C++/Java and native code.
+- Worked as a **Teaching Assistant for Programming in C++** at the University of Tartu in spring 2026.
+- Awarded the **Playtech Scholarship 2026**.
+- Research interests include **scheduling AI workloads across heterogeneous compute clusters** and distributed resource management.
 
----
+## Experience
 
-### 👨‍💻 About Me
-- 🎓 **MSc Computer Science (2025–2027)** — University of Tartu  
-- 🧠 Strong background in **C / C++ / Java / Python** and algorithmic thinking  
-- 🔐 Industry experience in **secure coding, SAST remediation, CI/CD**  
-- 🛠 Worked on **large-scale legacy systems** (C/C++/Fortran/Java) at Halliburton  
-- 🤖 Built **AI-based auto-tracking & multi-robot systems** (embedded + software)  
-- 📚 Interested in **Backend Engineering, Distributed Systems, AI & Robotics**
+| Role | Organization | Dates |
+| --- | --- | --- |
+| Software Developer | Cleveron | Mar 2026 – Present |
+| Teaching Assistant — Programming in C++ | University of Tartu | Mar – Jun 2026 |
+| Application / Software Engineer | LMKR - Halliburton | Jul 2023 – Aug 2025 |
+| Hardware Design Engineer — embedded Linux software | TeReSol | Jul 2022 – Jun 2023 |
 
----
+At Cleveron, I work on controller software, device communication, power management, firmware updates, and reliability testing. Earlier at TeReSol, I developed C++ applications for real-time video processing using NVIDIA Jetson, OpenCV, GStreamer, and FFmpeg.
 
-### 🧩 Current Focus
-- Backend & systems engineering (Java / C++ / Python)
-- Secure & maintainable software design
-- Algorithms, ML fundamentals & applied AI
-- Research-oriented engineering & real-world systems
+## Education
 
----
+**MSc Computer Science — University of Tartu, Estonia**  
+2025–2027 · Specialization: Distributed Systems · GPA: **5.0/5.0**
 
-### 🛠️ Tech Stack
-**Languages:** C, C++, Java, Python, Fortran  
-**Tools:** Git, GitLab CI/CD, Jenkins, Linux, Docker  
-**Domains:** Backend Systems, Secure Coding, Robotics, AI, Legacy Modernization  
+**BS Computer Engineering — COMSATS University Islamabad**  
+2022 · CGPA: **3.69/4.00** · **2nd in batch**
 
----
+## Technical toolkit
 
-## 📁 Demo Projects
+| Area | Technologies |
+| --- | --- |
+| Languages | C, C++ (11/17/20), Java, Python, Fortran, Bash |
+| Build & delivery | CMake, Make, Git, GitLab CI/CD, Jenkins |
+| Platforms | Linux, RHEL/CentOS, Docker, Docker Compose |
+| Security & quality | Fortify SCA, GitLab SAST, secure coding, debugging |
+| Desktop & enterprise | Java Swing, Eclipse RCP, legacy modernization |
+| Monitoring | Grafana, Prometheus |
+| Devices & computer vision | ESP32/ESP8266, PIC microcontrollers, NVIDIA Jetson, OpenCV, GStreamer, FFmpeg, CUDA |
 
-**Smart Water Tank Monitoring & Overflow Prevention System**  
-🔗 https://github.com/mharisirfan/SmartWaterTankMonitoring  
-IoT-based automated water tank management with real-time MQTT monitoring and web dashboard
+## Selected projects
 
-**Autism Spectrum Detection Demo App**  
-🔗 https://asddemoapp-livelink.streamlit.app  
+### [Smart Water Tank Monitoring & Overflow Prevention](https://github.com/mharisirfan/SmartWaterTankMonitoring)
+IoT-based water tank monitoring and control with ultrasonic sensing, MQTT communication, and a web dashboard.
 
-**Tic Tac Toe Web App**  
-🔗 https://tictactoeharis.streamlit.app/
+### Distributed Online Bookstore
+University project exploring vector clocks, leader election, mutual exclusion, and worker orchestration, with Docker Compose, Grafana, and Prometheus.
 
----
+### Two Degrees — Cold-Chain Resilience
+Built with an international team during the Erasmus+ BIP at Fontys in Tilburg, Netherlands, in October 2026. Combined an ESP32 hardware demonstration, a Streamlit dashboard, incident simulation, alerts, and guided recovery procedures for a milk cold chain.
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&hide=contribs" />
-  <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mharisirfan&theme=cobalt&layout=compact&langs_count=4" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mharisirfan&theme=default" height="160" alt="GitHub Streak" />
-</div>
+### Spectrometer Heart Rate Logger
+ESP32 and AS7265X spectral-sensor project for collecting and analyzing measurements to evaluate heart rate estimation against a reference signal.
 
+### More demos
+- [Autism Spectrum Detection Demo App](https://asddemoapp-livelink.streamlit.app)
+- [Tic Tac Toe Web App](https://tictactoeharis.streamlit.app/)
 
-### 🤝 Let’s Connect
-I’m always open to discussions around **software engineering, research, AI, robotics, and backend systems**.
+## Let's connect
 
-📫 Reach me via **LinkedIn** or check out my work at 👉 [harisirfan.com](https://harisirfan.com)
+I'm open to conversations about **C++ engineering, secure software, distributed systems, and research**.
 
-
-
-
-
-
-
+Explore my work at **[harisirfan.com](https://harisirfan.com)** or reach out on **[LinkedIn](https://www.linkedin.com/in/muhammadharisirfan/)**.
