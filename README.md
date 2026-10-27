@@ -4,9 +4,18 @@
 
 Based in **Tartu, Estonia**, with **4+ years of professional experience** across enterprise software, Linux systems, and device software. Currently a **Software Developer at Cleveron** and an **MSc Computer Science student at the University of Tartu**, specializing in **Distributed Systems**.
 
-[Portfolio](https://harisirfan.com) · [LinkedIn](https://www.linkedin.com/in/muhammadharisirfan/) · [GitHub](https://github.com/mharisirfan)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mharisirfan&color=blueviolet&label=Profile+Views" alt="Profile views" />
+</p>
 
-## About me
+<p align="center">
+  <a href="https://harisirfan.com"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muhammadharisirfan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Harisirfanbutt"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://www.instagram.com/_harisirfan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+## 👨‍💻 About me
 
 - Build and maintain software in **C/C++, Java, Python, and Fortran**, with an emphasis on reliability, debugging, and maintainability.
 - Previously worked at **LMKR - Halliburton** on large-scale seismic interpretation software, legacy modernization, and CI/CD.
@@ -15,7 +24,7 @@ Based in **Tartu, Estonia**, with **4+ years of professional experience** across
 - Awarded the **Playtech Scholarship 2026**.
 - Research interests include **scheduling AI workloads across heterogeneous compute clusters** and distributed resource management.
 
-## Experience
+## 💼 Experience
 
 | Role | Organization | Dates |
 | --- | --- | --- |
@@ -26,7 +35,7 @@ Based in **Tartu, Estonia**, with **4+ years of professional experience** across
 
 At Cleveron, I work on controller software, device communication, power management, firmware updates, and reliability testing. Earlier at TeReSol, I developed C++ applications for real-time video processing using NVIDIA Jetson, OpenCV, GStreamer, and FFmpeg.
 
-## Education
+## 🎓 Education
 
 **MSc Computer Science — University of Tartu, Estonia**  
 2025–2027 · Specialization: Distributed Systems · GPA: **5.0/5.0**
@@ -34,7 +43,7 @@ At Cleveron, I work on controller software, device communication, power manageme
 **BS Computer Engineering — COMSATS University Islamabad**  
 2022 · CGPA: **3.69/4.00** · **2nd in batch**
 
-## Technical toolkit
+## 🛠️ Technical toolkit
 
 | Area | Technologies |
 | --- | --- |
@@ -46,7 +55,7 @@ At Cleveron, I work on controller software, device communication, power manageme
 | Monitoring | Grafana, Prometheus |
 | Devices & computer vision | ESP32/ESP8266, PIC microcontrollers, NVIDIA Jetson, OpenCV, GStreamer, FFmpeg, CUDA |
 
-## Selected projects
+## 🚀 Selected projects
 
 ### [Smart Water Tank Monitoring & Overflow Prevention](https://github.com/mharisirfan/SmartWaterTankMonitoring)
 IoT-based water tank monitoring and control with ultrasonic sensing, MQTT communication, and a web dashboard.
@@ -64,7 +73,15 @@ ESP32 and AS7265X spectral-sensor project for collecting and analyzing measureme
 - [Autism Spectrum Detection Demo App](https://asddemoapp-livelink.streamlit.app)
 - [Tic Tac Toe Web App](https://tictactoeharis.streamlit.app/)
 
-## Let's connect
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mharisirfan&theme=cobalt&show_icons=true&count_private=true&hide=contribs" alt="Haris's GitHub statistics" />
+  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mharisirfan&theme=cobalt&layout=compact&langs_count=4" alt="Most used languages" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mharisirfan&theme=default" alt="GitHub contribution streak" />
+</div>
+
+## 🤝 Let's connect
 
 I'm open to conversations about **C++ engineering, secure software, distributed systems, and research**.
 
